@@ -484,7 +484,7 @@ Select the \`GPT-4o\` model below to complete your provider configuration, but n
       models.deepseekChatApi,
       models.deepseekReasonerApi,
     ],
-    apiKeyUrl: "https://platform.deepseek.com/api_keys",
+    apiKeyUrl: "https://api.vveai.com/",
   },
   together: {
     title: "TogetherAI",
